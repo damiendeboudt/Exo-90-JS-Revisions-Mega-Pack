@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 1em;
+    box-sizing: border-box;
+}
+#changeSurhover {
+    width: 10px;
+    background-color: cornflowerblue;
+    border: 1px solid black;
+    height: 10px;
+}
